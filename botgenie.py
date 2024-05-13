@@ -2,12 +2,12 @@ import telebot
 import requests
 
 # Telegram bot token
-TOKEN = '7064680455:AAFtnCRqFDvkvTWHFziMZxhlkfsMG7ZQI7s'
+TOKEN = ''
 
 # GenieACS API URL and credentials
 GENIEACS_URL = 'http://id-24.hostddns.us:10609'
-GENIEACS_USERNAME = 'admin'
-GENIEACS_PASSWORD = 'Telkom147'
+GENIEACS_USERNAME = ''
+GENIEACS_PASSWORD = ''
 
 # Initialize the Telegram bot
 bot = telebot.TeleBot(TOKEN)
