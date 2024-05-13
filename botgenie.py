@@ -2,7 +2,7 @@ import telebot
 import requests
 
 # Telegram bot token
-TOKEN = '6410171894:AAGTLRyHqZ3qZaHolzU2sAXDd78m5iRT-GQ'
+TOKEN = '7064680455:AAFtnCRqFDvkvTWHFziMZxhlkfsMG7ZQI7s'
 
 # GenieACS API URL and credentials
 GENIEACS_URL = 'http://id-24.hostddns.us:10609'
